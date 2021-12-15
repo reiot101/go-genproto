@@ -1,2 +1,2 @@
 # go-genproto
-golang genrated protobuf apis
+golang generated protobuf apis
